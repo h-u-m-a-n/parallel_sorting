@@ -11,3 +11,6 @@ Implementation of parallel sorting using openMP
 size: integer, size of array  
 print: (0 or 1), show array  
 n: integer, number of threads
+
+# Generate report
+`python report.py`
